@@ -7287,6 +7287,41 @@ SOURCES += \
 	"$$unrealRootPath/Engine/Plugins/Tests/RuntimeTests/Source/RuntimeTests/Private/Shaders/ShaderComparisonTests.cpp" \
 	"$$unrealRootPath/Engine/Plugins/Tests/RuntimeTests/Source/RuntimeTests/Private/Slate/RichTextMarkupProcessingTest.cpp" \
 	"$$unrealRootPath/Engine/Plugins/Tests/ScreenshotTools/Source/ScreenshotTools/Private/ScreenshotTools.cpp" \
+	"$$UE4EnvironmentRootPath/Plugins/ROSIntegration/Source/ROSIntegration/Private/MyFancyPluginObject.cpp" \
+	"$$UE4EnvironmentRootPath/Plugins/ROSIntegration/Source/ROSIntegration/Private/MyROSIntegrationGameInstance.cpp" \
+	"$$UE4EnvironmentRootPath/Plugins/ROSIntegration/Source/ROSIntegration/Private/Publisher.cpp" \
+	"$$UE4EnvironmentRootPath/Plugins/ROSIntegration/Source/ROSIntegration/Private/ROSIntegration.cpp" \
+	"$$UE4EnvironmentRootPath/Plugins/ROSIntegration/Source/ROSIntegration/Private/ROSIntegrationCore.cpp" \
+	"$$UE4EnvironmentRootPath/Plugins/ROSIntegration/Source/ROSIntegration/Private/ROSIntegrationGameInstance.cpp" \
+	"$$UE4EnvironmentRootPath/Plugins/ROSIntegration/Source/ROSIntegration/Private/Service.cpp" \
+	"$$UE4EnvironmentRootPath/Plugins/ROSIntegration/Source/ROSIntegration/Private/SpawnManager.cpp" \
+	"$$UE4EnvironmentRootPath/Plugins/ROSIntegration/Source/ROSIntegration/Private/SpawnObjectMessage.cpp" \
+	"$$UE4EnvironmentRootPath/Plugins/ROSIntegration/Source/ROSIntegration/Private/SpawnableObject.cpp" \
+	"$$UE4EnvironmentRootPath/Plugins/ROSIntegration/Source/ROSIntegration/Private/TFBroadcastComponent.cpp" \
+	"$$UE4EnvironmentRootPath/Plugins/ROSIntegration/Source/ROSIntegration/Private/Test.cpp" \
+	"$$UE4EnvironmentRootPath/Plugins/ROSIntegration/Source/ROSIntegration/Private/Topic.cpp" \
+	"$$UE4EnvironmentRootPath/Plugins/ROSIntegration/Source/ROSIntegration/Private/Conversion/Messages/BaseMessageConverter.cpp" \
+	"$$UE4EnvironmentRootPath/Plugins/ROSIntegration/Source/ROSIntegration/Private/Conversion/Messages/geometry_msgs/GeometryMsgsQuaternionConverter.cpp" \
+	"$$UE4EnvironmentRootPath/Plugins/ROSIntegration/Source/ROSIntegration/Private/Conversion/Messages/geometry_msgs/GeometryMsgsTransformConverter.cpp" \
+	"$$UE4EnvironmentRootPath/Plugins/ROSIntegration/Source/ROSIntegration/Private/Conversion/Messages/geometry_msgs/GeometryMsgsTransformStampedConverter.cpp" \
+	"$$UE4EnvironmentRootPath/Plugins/ROSIntegration/Source/ROSIntegration/Private/Conversion/Messages/geometry_msgs/GeometryMsgsVector3Converter.cpp" \
+	"$$UE4EnvironmentRootPath/Plugins/ROSIntegration/Source/ROSIntegration/Private/Conversion/Messages/sensor_msgs/SensorMsgsCameraInfoConverter.cpp" \
+	"$$UE4EnvironmentRootPath/Plugins/ROSIntegration/Source/ROSIntegration/Private/Conversion/Messages/sensor_msgs/SensorMsgsImageConverter.cpp" \
+	"$$UE4EnvironmentRootPath/Plugins/ROSIntegration/Source/ROSIntegration/Private/Conversion/Messages/sensor_msgs/SensorMsgsRegionOfInterestConverter.cpp" \
+	"$$UE4EnvironmentRootPath/Plugins/ROSIntegration/Source/ROSIntegration/Private/Conversion/Messages/std_msgs/StdMsgsHeaderConverter.cpp" \
+	"$$UE4EnvironmentRootPath/Plugins/ROSIntegration/Source/ROSIntegration/Private/Conversion/Messages/std_msgs/StdMsgsStringConverter.cpp" \
+	"$$UE4EnvironmentRootPath/Plugins/ROSIntegration/Source/ROSIntegration/Private/Conversion/Messages/tf2_msgs/Tf2MsgsTFMessageConverter.cpp" \
+	"$$UE4EnvironmentRootPath/Plugins/ROSIntegration/Source/ROSIntegration/Private/Conversion/Services/BaseRequestConverter.cpp" \
+	"$$UE4EnvironmentRootPath/Plugins/ROSIntegration/Source/ROSIntegration/Private/Conversion/Services/BaseResponseConverter.cpp" \
+	"$$UE4EnvironmentRootPath/Plugins/ROSIntegration/Source/ROSIntegration/Private/Conversion/Services/rospy_tutorials/RospyTutorialsAddTwoIntsRequestConverter.cpp" \
+	"$$UE4EnvironmentRootPath/Plugins/ROSIntegration/Source/ROSIntegration/Private/Conversion/Services/rospy_tutorials/RospyTutorialsAddTwoIntsResponseConverter.cpp" \
+	"$$UE4EnvironmentRootPath/Plugins/ROSIntegration/Source/ROSIntegration/Private/rosbridge2cpp/TCPConnection.cpp" \
+	"$$UE4EnvironmentRootPath/Plugins/ROSIntegration/Source/ROSIntegration/Private/rosbridge2cpp/ros_bridge.cpp" \
+	"$$UE4EnvironmentRootPath/Plugins/ROSIntegration/Source/ROSIntegration/Private/rosbridge2cpp/ros_service.cpp" \
+	"$$UE4EnvironmentRootPath/Plugins/ROSIntegration/Source/ROSIntegration/Private/rosbridge2cpp/ros_tf_broadcaster.cpp" \
+	"$$UE4EnvironmentRootPath/Plugins/ROSIntegration/Source/ROSIntegration/Private/rosbridge2cpp/ros_time.cpp" \
+	"$$UE4EnvironmentRootPath/Plugins/ROSIntegration/Source/ROSIntegration/Private/rosbridge2cpp/ros_topic.cpp" \
+	"$$UE4EnvironmentRootPath/Source/UE4Environment/TestActor.cpp" \
 	"$$UE4EnvironmentRootPath/Source/UE4Environment/UE4Environment.cpp" \
 	"$$UE4EnvironmentRootPath/Source/UE4Environment/UE4EnvironmentGameMode.cpp" \
 	"$$UE4EnvironmentRootPath/Source/UE4Environment/UE4EnvironmentHud.cpp" \

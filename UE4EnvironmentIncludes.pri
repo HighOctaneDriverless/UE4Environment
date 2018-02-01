@@ -2412,6 +2412,19 @@ INCLUDEPATH += \
 	/home/martin/UnrealEngine/Engine/Intermediate/Build/Linux/B4D820EA/UnrealWatchdog/Inc/RHI \
 	/home/martin/UnrealEngine/Engine/Intermediate/Build/Linux/B4D820EA/BootstrapPackagedGame/Inc/BootstrapPackagedGame \
 	/home/martin/UnrealEngine/Engine/Source/Programs/Windows/BootstrapPackagedGame \
+	Plugins/ROSIntegration/Source/ROSIntegration/Private \
+	Plugins/ROSIntegration/Source/ROSIntegration/Private/rosbridge2cpp \
+	/home/martin/UnrealEngine/Engine/Source/ROSIntegration/Public \
+	Plugins/ROSIntegration/Source \
+	Plugins/ROSIntegration/Source/ROSIntegration/Classes \
+	Plugins/ROSIntegration/Source/ROSIntegration/Public \
+	Plugins/ROSIntegration/Source/ROSIntegration/Public/geometry_msgs \
+	Plugins/ROSIntegration/Source/ROSIntegration/Public/rospy_tutorials \
+	Plugins/ROSIntegration/Source/ROSIntegration/Public/sensor_msgs \
+	Plugins/ROSIntegration/Source/ROSIntegration/Public/std_msgs \
+	Plugins/ROSIntegration/Source/ROSIntegration/Public/tf2_msgs \
+	Plugins/ROSIntegration/Intermediate/Build/Linux/B4D820EA/UE4Editor/Inc/ROSIntegration \
+	Plugins/ROSIntegration/Source/ROSIntegration \
 	Source \
 	Intermediate/Build/Linux/B4D820EA/UE4Editor/Inc/UE4Environment \
 	Source/UE4Environment \

@@ -3911,9 +3911,20 @@
 /home/martin/UnrealEngine/Engine/Source/Programs/Windows/BootstrapPackagedGame
 /usr/include
 /home/martin/UnrealEngine/Engine/Source
-/home/martin/Documents/Unreal Projects/UE4Environment/Source
-/home/martin/Documents/Unreal Projects/UE4Environment/Intermediate/Build/Linux/B4D820EA/UE4Editor/Inc/UE4Environment
-/home/martin/Documents/Unreal Projects/UE4Environment/Source/UE4Environment
+/home/martin/Documents/Unreal Projects/UE4Environment/Plugins/ROSIntegration/Source/ROSIntegration/Private
+/home/martin/Documents/Unreal Projects/UE4Environment/Plugins/ROSIntegration/Source/ROSIntegration/Private/rosbridge2cpp
+/home/martin/UnrealEngine/Engine/Source/ROSIntegration/Public
+/home/martin/Documents/Unreal Projects/UE4Environment/Plugins/ROSIntegration/ThirdParty/bson/include/linux
+/home/martin/Documents/Unreal Projects/UE4Environment/Plugins/ROSIntegration/Source
+/home/martin/Documents/Unreal Projects/UE4Environment/Plugins/ROSIntegration/Source/ROSIntegration/Classes
+/home/martin/Documents/Unreal Projects/UE4Environment/Plugins/ROSIntegration/Source/ROSIntegration/Public
+/home/martin/Documents/Unreal Projects/UE4Environment/Plugins/ROSIntegration/Source/ROSIntegration/Public/geometry_msgs
+/home/martin/Documents/Unreal Projects/UE4Environment/Plugins/ROSIntegration/Source/ROSIntegration/Public/rospy_tutorials
+/home/martin/Documents/Unreal Projects/UE4Environment/Plugins/ROSIntegration/Source/ROSIntegration/Public/sensor_msgs
+/home/martin/Documents/Unreal Projects/UE4Environment/Plugins/ROSIntegration/Source/ROSIntegration/Public/std_msgs
+/home/martin/Documents/Unreal Projects/UE4Environment/Plugins/ROSIntegration/Source/ROSIntegration/Public/tf2_msgs
+/home/martin/Documents/Unreal Projects/UE4Environment/Plugins/ROSIntegration/Intermediate/Build/Linux/B4D820EA/UE4Editor/Inc/ROSIntegration
+/home/martin/Documents/Unreal Projects/UE4Environment/Plugins/ROSIntegration/Source/ROSIntegration
 /home/martin/UnrealEngine/Engine/Source/Runtime/Core/Public
 /home/martin/UnrealEngine/Engine/Source/Runtime/Core/Public/Internationalization
 /home/martin/UnrealEngine/Engine/Source/Runtime/Core/Public/Async
@@ -3935,6 +3946,16 @@
 /home/martin/UnrealEngine/Engine/Source/Runtime/Core/Public/UObject
 /home/martin/UnrealEngine/Engine/Source/Runtime/Core/Public/Linux
 /home/martin/UnrealEngine/Engine/Source/Runtime/Core
+/home/martin/UnrealEngine/Engine/Source/Runtime/Sockets/Public
+/home/martin/UnrealEngine/Engine/Intermediate/Build/Linux/B4D820EA/UE4Editor/Inc/Sockets
+/home/martin/UnrealEngine/Engine/Source/Runtime/Sockets
+/home/martin/UnrealEngine/Engine/Source/Runtime/Networking/Public
+/home/martin/UnrealEngine/Engine/Source/Runtime/Networking/Public/Common
+/home/martin/UnrealEngine/Engine/Source/Runtime/Networking/Public/Interfaces
+/home/martin/UnrealEngine/Engine/Source/Runtime/Networking/Public/Interfaces/IPv4
+/home/martin/UnrealEngine/Engine/Source/Runtime/Networking/Public/Interfaces/Steam
+/home/martin/UnrealEngine/Engine/Intermediate/Build/Linux/B4D820EA/UE4Editor/Inc/Networking
+/home/martin/UnrealEngine/Engine/Source/Runtime/Networking
 /home/martin/UnrealEngine/Engine/Source/Runtime/CoreUObject/Public
 /home/martin/UnrealEngine/Engine/Source/Runtime/CoreUObject/Public/Blueprint
 /home/martin/UnrealEngine/Engine/Source/Runtime/CoreUObject/Public/Internationalization
@@ -4210,9 +4231,6 @@
 /home/martin/UnrealEngine/Engine/Source/Runtime/CoreUObject/Public/Interfaces
 /home/martin/UnrealEngine/Engine/Intermediate/Build/Linux/B4D820EA/UE4Editor/Inc/NetworkFileSystem
 /home/martin/UnrealEngine/Engine/Source/Runtime/NetworkFileSystem
-/home/martin/UnrealEngine/Engine/Source/Runtime/Sockets/Public
-/home/martin/UnrealEngine/Engine/Intermediate/Build/Linux/B4D820EA/UE4Editor/Inc/Sockets
-/home/martin/UnrealEngine/Engine/Source/Runtime/Sockets
 /home/martin/UnrealEngine/Engine/Source/Runtime/UMG/Public
 /home/martin/UnrealEngine/Engine/Source/Runtime/UMG/Public/Animation
 /home/martin/UnrealEngine/Engine/Source/Runtime/UMG/Public/Binding
@@ -4277,6 +4295,9 @@
 /home/martin/UnrealEngine/Engine/Source/Runtime/AudioMixer/Public/DSP
 /home/martin/UnrealEngine/Engine/Intermediate/Build/Linux/B4D820EA/UE4Editor/Inc/AudioMixer
 /home/martin/UnrealEngine/Engine/Source/Runtime/AudioMixer
+/home/martin/Documents/Unreal Projects/UE4Environment/Source
+/home/martin/Documents/Unreal Projects/UE4Environment/Intermediate/Build/Linux/B4D820EA/UE4Editor/Inc/UE4Environment
+/home/martin/Documents/Unreal Projects/UE4Environment/Source/UE4Environment
 /home/martin/UnrealEngine/Engine/Source/PhysXVehicles/Public
 /home/martin/UnrealEngine/Engine/Plugins/Runtime/PhysXVehicles/Source/PhysXVehicles/Public
 /home/martin/UnrealEngine/Engine/Plugins/Runtime/PhysXVehicles/Intermediate/Build/Linux/B4D820EA/UE4Editor/Inc/PhysXVehicles
